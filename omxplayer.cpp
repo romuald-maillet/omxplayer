@@ -115,6 +115,7 @@ bool              m_has_audio           = false;
 bool              m_has_subtitle        = false;
 bool              m_gen_log             = false;
 bool              m_loop                = false;
+bool              m_auto_off_pause      = false;
 
 enum{ERROR=-1,SUCCESS,ONEBYTE};
 
